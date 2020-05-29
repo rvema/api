@@ -68,7 +68,7 @@
         <jacoco.classes.missed.minimum>300</jacoco.classes.missed.minimum>
         <java.compilation.source>1.8</java.compilation.source>
         <java.compilation.target>1.8</java.compilation.target>
-        <joda-time.version>2.7</joda-time.version>
+        <joda-time.version>2.10.6</joda-time.version>
         <joda-convert.version>1.8.1</joda-convert.version>
         <jackson.version>2.10.3</jackson.version>
         <junit.version>4.11</junit.version>
